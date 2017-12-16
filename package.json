@@ -1,0 +1,23 @@
+{
+  "name": "alfred-workflow-license-request-text",
+  "version": "1.0.0",
+  "description":
+    "An Alfred 3 Workflow for creating license request text in the format of the [Issue Temaplate](#Issue-Template).",
+  "main": "index.js",
+  "dependencies": {
+    "get-repo-package-json": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "node-dev ."
+  },
+  "repository": {
+    "type": "git",
+    "url":
+      "https://devtopia.esri.com/yank8713/alfred-workflow-license-request-text.git"
+  },
+  "author": "Yankuan Zhang",
+  "license": "MIT"
+}
